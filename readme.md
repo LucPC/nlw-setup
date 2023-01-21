@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 NWL é um Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um aplicativo que ajuda a rastrear os hábitos.
+
+- [Visite o projeto online] (https://lucpc.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
